@@ -24,6 +24,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30></h2>
+
+
+ <img align="right" height=300  width=250 alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+- 🔭 I’m currently working on [Facebook clone](https://github.com/abhi9720/facebook-clone)
+  
+- 🌱 I’m currently learning **Reactjs**
+  
+- 👯 I’m looking to collaborate on [Facebook Clone](https://github.com/abhi9720/facebook-clone)
+- 💬 Ask me about **Mern Stack**
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+
 <!--
 **shiv6789/shiv6789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
