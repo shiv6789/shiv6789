@@ -50,6 +50,11 @@
 <a href="https://auth.geeksforgeeks.org/user/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
 </p>
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi9720_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi9720) 
+
+
 <!--
 **shiv6789/shiv6789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
