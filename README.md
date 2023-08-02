@@ -6,11 +6,8 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shivang-software-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -29,19 +26,17 @@
 
  <img align="right" height=300  width=250 alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-- 🔭 I’m currently working on [Facebook clone](https://github.com/abhi9720/facebook-clone)
+- 🔭 I’m currently working on PhonePe
   
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **SpringBoot**
   
-- 👯 I’m looking to collaborate on [Facebook Clone](https://github.com/abhi9720/facebook-clone)
-- 💬 Ask me about **Mern Stack**
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 
 
   ## 🔎 Search me on:
 
 <p align="left">
-<a href="https://linkedin.com/in/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi9720" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivang-software-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi9720" height="30" width="40" /></a>
 <a href="https://fb.com/100008338115771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008338115771" height="30" width="40" /></a>
 <a href="https://instagram.com/ishutiwari75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishutiwari75" height="30" width="40" /></a>
 
@@ -52,7 +47,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi9720_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi9720) 
+[![Medium](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi9720_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi9720) 
 
 
 # 💻 Tech Stack:
