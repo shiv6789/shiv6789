@@ -37,6 +37,19 @@
 - 💬 Ask me about **Mern Stack**
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 
+
+  ## 🔎 Search me on:
+
+<p align="left">
+<a href="https://linkedin.com/in/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi9720" height="30" width="40" /></a>
+<a href="https://fb.com/100008338115771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008338115771" height="30" width="40" /></a>
+<a href="https://instagram.com/ishutiwari75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishutiwari75" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi9720" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi9720" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
+</p>
+
 <!--
 **shiv6789/shiv6789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
